@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CodevDone.CleanArch.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CodevDone.CleanArch.CoreDomain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CodevDone.CleanArch.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodevDone.CleanArch.Application.dll": {}
+        }
+      },
+      "CodevDone.CleanArch.CoreDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CodevDone.CleanArch.CoreDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodevDone.CleanArch.CoreDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodevDone.CleanArch.Application/1.0.0": {
+      "type": "project",
+      "path": "../CodevDone.CleanArch.Application/CodevDone.CleanArch.Application.csproj",
+      "msbuildProject": "../CodevDone.CleanArch.Application/CodevDone.CleanArch.Application.csproj"
+    },
+    "CodevDone.CleanArch.CoreDomain/1.0.0": {
+      "type": "project",
+      "path": "../CodevDone.CleanArch.CoreDomain/CodevDone.CleanArch.CoreDomain.csproj",
+      "msbuildProject": "../CodevDone.CleanArch.CoreDomain/CodevDone.CleanArch.CoreDomain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CodevDone.CleanArch.Application >= 1.0.0",
+      "CodevDone.CleanArch.CoreDomain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/CodevDone.CleanArch.Infrastructure.csproj",
+      "projectName": "CodevDone.CleanArch.Infrastructure",
+      "projectPath": "/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/CodevDone.CleanArch.Infrastructure.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/work/CodevDone.CleanArch/CodevDone.CleanArch.Application/CodevDone.CleanArch.Application.csproj": {
+              "projectPath": "/work/CodevDone.CleanArch/CodevDone.CleanArch.Application/CodevDone.CleanArch.Application.csproj"
+            },
+            "/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/CodevDone.CleanArch.CoreDomain.csproj": {
+              "projectPath": "/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/CodevDone.CleanArch.CoreDomain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

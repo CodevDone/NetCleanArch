@@ -1,0 +1,12 @@
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/bin/Debug/net6.0/CodevDone.CleanArch.CoreDomain.deps.json
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/bin/Debug/net6.0/CodevDone.CleanArch.CoreDomain.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/bin/Debug/net6.0/CodevDone.CleanArch.CoreDomain.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.csproj.AssemblyReference.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.GeneratedMSBuildEditorConfig.editorconfig
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.AssemblyInfoInputs.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.AssemblyInfo.cs
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.csproj.CoreCompileInputs.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/refint/CodevDone.CleanArch.CoreDomain.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/CodevDone.CleanArch.CoreDomain.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.CoreDomain/obj/Debug/net6.0/ref/CodevDone.CleanArch.CoreDomain.dll

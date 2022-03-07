@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CodevDone.CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CodevDone.CleanArch.CoreDomain": "1.0.0"
+        },
+        "runtime": {
+          "CodevDone.CleanArch.Application.dll": {}
+        }
+      },
+      "CodevDone.CleanArch.CoreDomain/1.0.0": {
+        "runtime": {
+          "CodevDone.CleanArch.CoreDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodevDone.CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodevDone.CleanArch.CoreDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

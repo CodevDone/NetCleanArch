@@ -1,0 +1,17 @@
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.Infrastructure.deps.json
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.Infrastructure.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.Infrastructure.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.Application.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.CoreDomain.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.CoreDomain.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/bin/Debug/net6.0/CodevDone.CleanArch.Application.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.csproj.AssemblyReference.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.AssemblyInfoInputs.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.AssemblyInfo.cs
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.csproj.CopyComplete
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/refint/CodevDone.CleanArch.Infrastructure.dll
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/CodevDone.CleanArch.Infrastructure.pdb
+/work/CodevDone.CleanArch/CodevDone.CleanArch.Infrastructure/obj/Debug/net6.0/ref/CodevDone.CleanArch.Infrastructure.dll
